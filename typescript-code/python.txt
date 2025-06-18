@@ -1,0 +1,2 @@
+# Typescript for Python
+mypy file_name.py
